@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "How to start coding",
+      "body": "lorem ipsum",
+      "author": "Jack",
+      "id": 1
+    },
+    {
+      "title": "Clean Code Rules",
+      "body": "lorem ipsum",
+      "author": "Sam",
+      "id": 2
+    },
+    {
+      "title": "Tech World News",
+      "body": "lorem ipsum",
+      "author": "Miranda",
+      "id": 3
+    },
+    {
+      "title": "Best Coding Tools For Beginners",
+      "body": "lorem ipsum",
+      "author": "Miranda",
+      "id": 4
+    }
+  ]
+}
